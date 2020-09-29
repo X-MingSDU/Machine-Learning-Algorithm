@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587631286 source:e:\2-three-nextterm\opencv&pcb\knn_c\knn_c\read.c
+	"stdlib.h"
+	"stdio.h"
+
+1587628481 e:\2-three-nextterm\opencv&pcb\knn_c\knn_c\readcsvfile.h
+
+1587627874 source:e:\2-three-nextterm\opencv&pcb\knn_c\knn_c\readcsvfile.c
+	<stdio.h>
+	<memory.h>
+	<stdlib.h>
+	"readCSVFile.h"
+
+1587653861 source:e:\2-three-nextterm\opencv&pcb\knn_c\knn_c\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1587654016 source:e:\2-three-nextterm\opencv&pcb\knn_c\knn_c\knn.c
+
