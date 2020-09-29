@@ -10,7 +10,7 @@
 
 
 
-### 一、Simple linear regression algorithm
+### Ⅰ. Simple linear regression algorithm
 
 > Dataset: Swedish Auto Insurance Dataset (https://goo.gl/qPSNqY)
 
@@ -199,7 +199,7 @@
 
 
 
-### 二、Multivariate Linear Regression
+### Ⅱ. Multivariate Linear Regression
 
 ##### 1、Algorithm description (from book)：
 
@@ -360,7 +360,7 @@ Coefficients can be found using stochastic gradient descent.
 
 
 
-### 三、K-Nearest Neighbors  
+### Ⅲ. K-Nearest Neighbors  
 
 ##### 1、Algorithm description (from book)
 
@@ -518,7 +518,7 @@ Coefficients can be found using stochastic gradient descent.
 
 
 
-### 四、Naive Bayes 
+### Ⅳ. Naive Bayes 
 
 ##### 1、Introduction of the algorithm (from book)
 
