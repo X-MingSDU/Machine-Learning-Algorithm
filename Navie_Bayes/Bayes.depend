@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1588240136 source:e:\2-three-nextterm\opencv&pcb\nbayes_c\bayes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588329473 source:e:\2-three-nextterm\opencv&pcb\pcb大作业(薛茗201700820045)\navie_bayes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588329473 source:e:\2-three-nextterm\opencv&pcb\机器学习算法c语言重现\navie_bayes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588329473 source:e:\2-three-nextterm\薛茗-201700820045-大作业汇总\薛茗-201700820045-pcb技术和电路基础\薛茗-201700820045-pcb技术和电路基础\机器学习算法c语言重现\navie_bayes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
