@@ -1,5 +1,3 @@
-[TOC]
-
 ## Machine learning algorithm(by using C language)
 
 > The algorithm prototype is referenced from《machine learning algorithms from scratch》 by Jason Brownlee.
