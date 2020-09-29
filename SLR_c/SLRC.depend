@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1587864641 source:e:\2-three-nextterm\opencv&pcb\slr_c\slrc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1588332158 source:e:\2-three-nextterm\opencv&pcb\pcb大作业(薛茗201700820045)\slr_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1588332158 source:e:\2-three-nextterm\opencv&pcb\机器学习算法c语言重现\slr_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1588332158 source:e:\2-three-nextterm\薛茗-201700820045-大作业汇总\薛茗-201700820045-pcb技术和电路基础\薛茗-201700820045-pcb技术和电路基础\机器学习算法c语言重现\slr_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1588332158 source:d:\1出国申请\科研作品附件(中文版)\机器学习算法c语言重现\slr_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
