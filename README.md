@@ -1,6 +1,8 @@
 ## Machine learning algorithm(by using C language)
 
-> The algorithm prototype is referenced from《machine learning algorithms from scratch》 by Jason Brownlee.
+> See pictures in the "README.pdf".
+>
+> The algorithm prototype is referenced from《machine learning algorithms from scratch》 by Jason Brownlee. 
 >
 > Language: python to C language
 >
@@ -193,8 +195,6 @@
 
 ##### 4、Results and estimate
 
-- ![](images\SLR.png)
-
 - All the functions of the algorithm are realized, and the prediction of simple linear regression analysis can be realized.
 
 
@@ -352,10 +352,6 @@ Coefficients can be found using stochastic gradient descent.
 
 4、Result
 
-- 
-
-![](images\MLR.png)
-
 - The results are accurate with small error, and the results of cross validation are reasonable. The related functions of MLR algorithm are fully realized. Function comprehensive, code concise.
 
 
@@ -509,10 +505,6 @@ Coefficients can be found using stochastic gradient descent.
   ```
 
 4、Algorithm evaluation
-
-- 
-
-<img src="images\KNN.png" style="zoom:67%;" />
 
 - The results of cross validation are not stable, and the overall accuracy is high. The algorithm programming is complex, some steps are complicated, there is still room for simplification.
 
@@ -737,8 +729,6 @@ type *calculate_class_probabilities(type **array,type *row,int d,int n) //
   ```
 
 ##### 4、The results of the algorithm
-
-![](images\Bayes.png)
 
 - Evaluation
 
